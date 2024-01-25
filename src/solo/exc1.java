@@ -33,4 +33,5 @@ public class exc1 {
 		} while(saida == 1);
 		System.out.println("Saindo do programa...");
 	}
+	
 }
